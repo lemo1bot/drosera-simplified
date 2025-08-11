@@ -1,0 +1,43 @@
+# Environment files (contain private keys)
+.env
+.env.local
+.env.production
+
+# Private keys and sensitive data
+*.key
+*.pem
+private_key.txt
+mnemonic.txt
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Node modules (if any)
+node_modules/
+
+# Foundry cache
+cache/
+out/
+
+# Backup files
+*.bak
+*.backup 

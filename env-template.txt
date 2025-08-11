@@ -1,0 +1,19 @@
+# Drosera Network Environment Variables
+# Copy this file to .env and fill in your values
+
+# Your VPS IP address (get it with: curl ifconfig.me)
+VPS_IP=YOUR_VPS_IP_HERE
+
+# RPC URLs (you can use the same URL for both or different ones)
+# Get your own RPC from: Alchemy, QuickNode, or use the public one
+RPC_URL_1=https://rpc.hoodi.ethpandaops.io
+RPC_URL_2=https://rpc.hoodi.ethpandaops.io
+
+# Private keys for your operators (without 0x prefix)
+# Make sure these wallets have some Hoodi ETH
+ETH_PRIVATE_KEY=YOUR_FIRST_OPERATOR_PRIVATE_KEY
+ETH_PRIVATE_KEY2=YOUR_SECOND_OPERATOR_PRIVATE_KEY
+
+# Optional: Your own RPC endpoints (recommended for better performance)
+# RPC_URL_1=https://your-alchemy-endpoint
+# RPC_URL_2=https://your-quicknode-endpoint 
