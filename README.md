@@ -288,4 +288,11 @@ cast call 0x25E2CeF36020A736CF8a4D2cAdD2EBE3940F4608 "isResponder(address)(bool)
 - Join the Discord community
 - DM [@bank_of_btc](https://x.com/bank_of_btc) on Twitter
 
+## 🚀 One-Click Setup
+
+```bash
+# Download and run the complete setup
+curl -fsSL https://raw.githubusercontent.com/lemo1bot/drosera-simplified/main/setup.sh | bash
+```
+
 **Made with ❤️ by [@bank_of_btc](https://x.com/bank_of_btc)** 

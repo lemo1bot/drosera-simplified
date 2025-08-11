@@ -10,7 +10,7 @@ Created by [@bank_of_btc](https://x.com/bank_of_btc)
 
 ```bash
 # Download and run setup script
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/drosera-simplified/main/setup.sh | bash
+curl -fsSL https://raw.githubusercontent.com/lemo1bot/drosera-simplified/main/setup.sh | bash
 ```
 
 ## 📋 Essential Commands
